@@ -473,3 +473,7 @@ header img.profile-img {
 header .intro-text .name {
     font-size: 2.25em;
 }
+
+section>div.container {
+    padding-top: 20px;
+}
